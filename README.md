@@ -1,2 +1,2 @@
 # Testing
-We are testing an application
+We are testing an UI
